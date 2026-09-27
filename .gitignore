@@ -1,0 +1,15 @@
+# Operator's Booth — .gitignore
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+.env.test
+*.pem
+*.key
+*.js.map
+*.d.ts.map
+coverage/
+.DS_Store
